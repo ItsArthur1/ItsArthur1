@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arturo Aragón Landa</h1>
 <h3 align="center">A Data Engineerig Student</h3>
 
-- 🌱 I’m currently studying **Data Engineer, 7th semester**
+- 🌱 I’m currently studying **Data Engineering, 7th semester**
 
 - 📫 How to reach me **aaragondeoi@gmail.com**
 
