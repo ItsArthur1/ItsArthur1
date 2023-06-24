@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo Aragón Landa</h1>
-<h3 align="center">A Data Engineer Student</h3>
+<h3 align="center">A Data Engineerig Student</h3>
 
 - 🌱 I’m currently studying **Data Engineer, 7th semester**
 
